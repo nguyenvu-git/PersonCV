@@ -16,7 +16,7 @@
 // }
 // typeChar();
 
-const text = "Frontend Develop";
+const text = "Frontend Developer";
 const typingEl = document.getElementById("typing");
 
 let charIndex = 0;
